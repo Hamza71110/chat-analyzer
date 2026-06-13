@@ -22,4 +22,5 @@ eggs/
 WhatsApp Chat with Family.txt
 WhatsApp Chat with Information Security A3.txt
 practice.ipynb
-.streamlit/
+.streamlit/*
+!.streamlit/config.toml
