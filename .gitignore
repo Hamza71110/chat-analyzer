@@ -1,0 +1,25 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+.idea/
+*.iml
+.DS_Store
+.ipynb_checkpoints/
+WhatsApp Chat with Family.txt
+WhatsApp Chat with Information Security A3.txt
+practice.ipynb
+.streamlit/
